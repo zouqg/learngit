@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git track changed of file.
 Creating a new branck is quick!
 Creating a new branck is quick and simple!
+haha
 
